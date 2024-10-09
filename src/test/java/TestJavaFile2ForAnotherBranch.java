@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class TestJavaFile2ForAnotherBranch {
+public class TestJavaFile2ForAnotherBranch {
 }

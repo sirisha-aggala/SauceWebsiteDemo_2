@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d77fe9-d10c-4ae3-8e25-2dd7ef3e19f5" name="Changes" comment="first attempt" />
+    <list default="true" id="03d77fe9-d10c-4ae3-8e25-2dd7ef3e19f5" name="Changes" comment="first attempt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestJavaFile2ForAnotherBranch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestJavaFile2ForAnotherBranch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sirisha" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -37,25 +58,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: Login (1).executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Login.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Datatable as lists for login functionality.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To validate login functionality of the bahmni application (1).executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To validate login functionality of the bahmni application.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To validate login functionality using Data table as lists.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestRunner.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sirinivas/IdeaProjects/SauceWebsiteDemo/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: Login (1).executor": "Run",
+    "Cucumber Java.Feature: Login.executor": "Run",
+    "Cucumber Java.Scenario: Datatable as lists for login functionality.executor": "Run",
+    "Cucumber Java.Scenario: To validate login functionality of the bahmni application (1).executor": "Run",
+    "Cucumber Java.Scenario: To validate login functionality of the bahmni application.executor": "Run",
+    "Cucumber Java.Scenario: To validate login functionality using Data table as lists.executor": "Run",
+    "JUnit.TestRunner.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "extrabranch",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Sirinivas/IdeaProjects/SauceWebsiteDemo/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sirinivas\IdeaProjects\SauceWebsiteDemo\src\test\resources" />
@@ -208,10 +229,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: To validate login functionality using Data table as lists" />
         <item itemvalue="Cucumber Java.Scenario: To validate login functionality of the bahmni application" />
-        <item itemvalue="Cucumber Java.Scenario: To validate login functionality of the bahmni application" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
+        <item itemvalue="Cucumber Java.Feature: Login" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728467785717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first attempt">
+      <option name="closed" value="true" />
+      <created>1728469775825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728469775825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
