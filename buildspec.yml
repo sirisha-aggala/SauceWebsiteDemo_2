@@ -1,0 +1,22 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Installing Maven dependencies...
+      - mvn clean install -DskipTests=true
+  pre_build:
+    commands:
+      - echo Preparing to run tests...
+  build:
+    commands:
+      - echo Running Maven tests...
+      - mvn test
+  post_build:
+    commands:
+      - echo Build and tests completed.
+reports:
+  junit_reports:
+    files:
+      - target/surefire-reports/*.xml
+    discard-paths: yes
